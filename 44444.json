@@ -1,0 +1,18 @@
+
+{    
+    "services": [
+
+        {
+            "nameOfService":"hora",
+            "ip":"localhost",
+            "port":44444,
+            "factor":0
+        },
+        {
+            "nameOfService":"fin",
+            "ip":"localhost",
+            "port":44444,
+            "factor":0
+        },
+    ]
+}

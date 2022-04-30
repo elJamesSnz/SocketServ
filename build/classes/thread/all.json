@@ -1,0 +1,29 @@
+
+{    
+    "services": [
+        {
+            "nameOfService":"fecha",
+            "ip":"localhost",
+            "port":33333,
+            "factor":0
+        },
+        {
+            "nameOfService":"cuantos",
+            "ip":"localhost",
+            "port":33333,
+            "factor":0
+        },
+        {
+            "nameOfService":"hora",
+            "ip":"localhost",
+            "port":33333,
+            "factor":0
+        },
+        {
+            "nameOfService":"fin",
+            "ip":"localhost",
+            "port":33333,
+            "factor":0
+        },
+    ]
+}
